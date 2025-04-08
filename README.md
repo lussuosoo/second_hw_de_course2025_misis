@@ -7,7 +7,7 @@
 
 - Книга о Hadoop (объяснение Map Reduce на странице 19) - [[Ссылка](https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html)]
 - Пример конфигурации для стадий перемешивания и сортировки в Map Reduce - [[Ссылка](https://hadoop.apache.org/docs/current/hadoop-streaming/HadoopStreaming.html#More_Usage_Examples)]
-- Основные команды HDFS - ([Ссылка][https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html])
+- Основные команды HDFS - [[Ссылка](https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html)]
 
 ## Задание 1:
 
